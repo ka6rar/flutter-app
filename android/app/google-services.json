@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874291834057",
+    "firebase_url": "https://back-270fd.firebaseio.com",
+    "project_id": "back-270fd",
+    "storage_bucket": "back-270fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874291834057:android:be218ef58e43dab626b118",
+        "android_client_info": {
+          "package_name": "com.example.fier_baes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874291834057-ns1v9fbrcc0d8ns71s7fpl1868k2bfed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_KCwC-aGSw_BJvrylsq4gczwHvZj4ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874291834057-ns1v9fbrcc0d8ns71s7fpl1868k2bfed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
